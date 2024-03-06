@@ -21,7 +21,8 @@ I am <b>19</b> years old, I live in <b>St. Petersburg</b>. I am currently studyi
 
 ### Fun facts about me:
 - My favourite number is 7
-
+- I took part in various math competitions, won Rosatom olympiad
+- Graduated from school with a gold medal
 
 
 
